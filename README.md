@@ -11,4 +11,4 @@
 
 ## Terraform Overview
 
-![image info](./Chap3-Terrafrom-基礎篇/Ch3-1-2-一張圖秒懂-Terraform的所有元件/Terraform Overview.png)
+![一張圖秒懂-Terraform的所有元件](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/blob/main/Chap3-Terrafrom-%E5%9F%BA%E7%A4%8E%E7%AF%87/Ch3-1-2-%E4%B8%80%E5%BC%B5%E5%9C%96%E7%A7%92%E6%87%82-Terraform%E7%9A%84%E6%89%80%E6%9C%89%E5%85%83%E4%BB%B6/Terraform%20Overview.png)
