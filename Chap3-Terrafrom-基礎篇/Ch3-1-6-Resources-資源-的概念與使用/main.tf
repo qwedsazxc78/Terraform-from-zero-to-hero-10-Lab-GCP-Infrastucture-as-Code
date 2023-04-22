@@ -1,12 +1,10 @@
 ##################################################################################
 # PROVISIONER
 ##################################################################################
-
-# gcp sample
 resource "google_compute_instance" "example" {
   name         = "example-instance"
   machine_type = "e2-micro"
-  zone         = "asia-east1-a"
+  zone         = "asia-east1-b"
 
   boot_disk {
     initialize_params {
@@ -21,5 +19,4 @@ resource "google_compute_instance" "example" {
       // Ephemeral IP
     }
   }
-
 }

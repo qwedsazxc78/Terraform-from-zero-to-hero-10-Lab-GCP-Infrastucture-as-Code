@@ -2,7 +2,7 @@
 # RESOURCE
 ##################################################################################
 resource "google_storage_bucket" "quick-start-gcs" {
-  name          = "quick-start-gcs-bucket"
-  location      = "asia-east1"
+  name          = var.gcs_name
+  location      = var.location
   force_destroy = true
 }

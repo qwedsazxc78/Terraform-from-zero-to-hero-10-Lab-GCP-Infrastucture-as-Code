@@ -1,8 +1,10 @@
 ##################################################################################
-# RESOURCE
+# Backend
 ##################################################################################
-resource "google_storage_bucket" "quick-start-gcs" {
-  name          = "quick-start-gcs-bucket"
-  location      = "asia-east1"
-  force_destroy = true
+terraform {
+  backend "gcs" {
+    bucket  = "terraform-101-state-bucket"
+    prefix  = "terraform/state"
+    project = "terraform101-384507"
+  }
 }
