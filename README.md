@@ -4,7 +4,7 @@
 
 課程大綱
 
-- Chap1 課程介紹
+- Chap1-課程介紹
 - Chap2-快速開始
 - Chap3-Terrafrom-基礎篇
 - Chap3-Terrafrom-進階篇
