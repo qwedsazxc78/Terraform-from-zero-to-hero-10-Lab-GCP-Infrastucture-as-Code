@@ -1,31 +1,18 @@
-# Lab 步驟
+# 大綱介紹
 
-1. 先進入state-bucket 資料夾產生遠端的gcs作為backend
+Terraform 基礎篇
 
-```BASH
-cd state-bucket
-
-terraform init
-terraform apply -auto-approve
-
-# or 快捷部署
-
-tf init
-tfd
-```
-
-2. 回到原先路徑，部署新的 bucket
-
-```BASH
-cd ..
-
-terraform init
-terraform apply -auto-approve
-
-# or 快捷部署
-
-tf init
-tfd
-```
-
-3. 觀察GCS檔案是否產生state.json檔案
+- Ch3.1.1 Terraform的介紹與安裝
+- Ch3.1.2 一張圖秒懂 Terraform的所有元件
+- Ch3.1.3 Terraform workflow 工作流程
+- Ch3.1.4 Tips 增加效率 - 使用bash alias
+- Ch3.1.5 Provider - version)的概念與使用
+- Ch3.1.6 Resources 資源 的概念與使用
+- Ch3.1.7 Provisioners 配置器的概念與使用
+- Ch3.1.8 Variables 變數 & Outputs 輸出的概念與使用
+- Ch3.1.9 Variables 變數的種類與使用順序
+- Ch3.1.10 Data Sources 資料來源 的概念與使用
+- Ch3.1.11 Exam Test
+- Ch3.1.12 State的概念與使用
+- Ch3.1.13 Backend的概念與使用
+- Ch3.1.14 Lab1: 產生GCS作為遠方存儲狀態 state 檔案的元件
