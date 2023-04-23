@@ -2,7 +2,8 @@
 # RESOURCE
 ##################################################################################
 resource "google_storage_bucket" "quick_start_gcs" {
-  name          = var.gcs_name
-  location      = var.location
+  # name          = "quick-start-gcs-bucket"
+  name          = "quick-start-gcs-bucket-${terraform.workspace}"
+  location      = "asia-east1"
   force_destroy = true
 }

@@ -1,0 +1,14 @@
+{
+    "region": "asia-east1",
+    "regional": false,
+    "zones": [
+        "asia-east1-a"
+    ],
+    "default_pool_name": "spot-worker-pool",
+    "default_pool_spot_type": true,
+    "default_pool_node_type": "n2-custom-4-8192",
+    "default_pool_min_count" : 0,
+    "default_pool_max_count" : 10,
+    "default_pool_disk_size_gb" : 100,
+    "kubernetes_version": "1.25.7-gke.1000"
+}

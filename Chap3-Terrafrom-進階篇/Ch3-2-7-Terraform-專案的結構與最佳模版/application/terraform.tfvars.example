@@ -1,0 +1,4 @@
+GITLB_RUNNER_TOKEN    = "4567"
+ARGOCD_ADMIN_PASSWORD = "1234"
+WORKSPACE_ENV         = "dev"
+GCP_PROJECT           = "terraform-101"

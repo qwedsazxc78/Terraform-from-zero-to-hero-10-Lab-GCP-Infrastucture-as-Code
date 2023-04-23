@@ -1,8 +1,8 @@
 ##################################################################################
 # RESOURCE
 ##################################################################################
-resource "google_storage_bucket" "quick_start_gcs" {
-  name          = var.gcs_name
-  location      = var.location
-  force_destroy = true
+module "gcs-module-demo" {
+  source   = "./modules/gcs"
+  gcs_name = "${var.gcs_name}-${terraform.workspace}"
+  location = var.location
 }
