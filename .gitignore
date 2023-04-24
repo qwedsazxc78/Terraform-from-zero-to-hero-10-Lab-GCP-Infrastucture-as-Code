@@ -36,3 +36,4 @@ terraform.rc
 *credential.json
 .terraform.lock.hcl
 *plan.out
+*sa.json

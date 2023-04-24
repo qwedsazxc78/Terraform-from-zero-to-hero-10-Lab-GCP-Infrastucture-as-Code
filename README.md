@@ -8,7 +8,7 @@
 - [Chap2-快速開始](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/tree/main/Chap2-%E5%BF%AB%E9%80%9F%E9%96%8B%E5%A7%8B)
 - [Chap3-Terrafrom-基礎篇](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/tree/main/Chap3-Terrafrom-%E5%9F%BA%E7%A4%8E%E7%AF%87)
 - [Chap3-Terrafrom-進階篇](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/tree/main/Chap3-Terrafrom-%E9%80%B2%E9%9A%8E%E7%AF%87)
-- [Chap4-GCP雲端與IAC架構實戰](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/tree/main/Chap3-Terrafrom-%E9%80%B2%E9%9A%8E%E7%AF%87)
+- [Chap4-GCP雲端與IAC架構實戰](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/tree/main/Chap4-GCP%E9%9B%B2%E7%AB%AF%E8%88%87IAC%E6%9E%B6%E6%A7%8B%E5%AF%A6%E6%88%B0)
 
 ## Terraform Overview
 
