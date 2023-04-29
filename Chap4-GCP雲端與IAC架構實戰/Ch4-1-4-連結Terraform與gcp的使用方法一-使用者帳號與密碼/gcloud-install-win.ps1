@@ -40,3 +40,8 @@ kubectl 1.24.12
 # 根據官方文件的連結，一步一步設定
 # https://cloud.google.com/sdk/docs/install-sdk#initializing_the
 gcloud init
+
+#######################################################
+# gcloud auth 得到權限
+#######################################################」
+gcloud auth application-default login

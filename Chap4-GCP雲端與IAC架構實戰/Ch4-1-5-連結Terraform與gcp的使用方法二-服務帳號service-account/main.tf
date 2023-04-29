@@ -1,7 +1,7 @@
 # 記得不要上傳你的service account 檔案
 provider "google" {
-  credentials = file("sa.json")
-  project     = "<your gcp project>"
+  credentials = file("tf101-sa.json")
+  project     = "terraform101-384507"
   region      = "asia-east1"
 }
 
