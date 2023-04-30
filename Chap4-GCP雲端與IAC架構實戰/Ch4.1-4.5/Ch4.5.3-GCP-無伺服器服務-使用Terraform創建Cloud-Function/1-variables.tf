@@ -9,7 +9,7 @@ variable "GCP_REGION" {
   default = "asia-northeast1"
 }
 
-variable "instance_name" {
+variable "func_name" {
   type    = string
-  default = "vm-tf-ch4-4-3"
+  default = "cloud-function-tf-ch4-5-3"
 }
