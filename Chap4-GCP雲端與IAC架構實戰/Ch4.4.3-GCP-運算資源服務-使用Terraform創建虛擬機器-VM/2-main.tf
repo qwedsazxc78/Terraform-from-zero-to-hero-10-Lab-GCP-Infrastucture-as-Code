@@ -17,7 +17,6 @@ resource "google_compute_instance" "example" {
     access_config {
     }
   }
-
 }
 
 output "instance_ip" {

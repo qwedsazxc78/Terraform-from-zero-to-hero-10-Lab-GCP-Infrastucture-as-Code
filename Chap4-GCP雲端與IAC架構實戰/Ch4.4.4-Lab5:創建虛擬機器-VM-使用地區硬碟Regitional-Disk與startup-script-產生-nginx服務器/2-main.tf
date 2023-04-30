@@ -22,6 +22,7 @@ resource "google_compute_instance" "example" {
   metadata_startup_script = "sudo apt update -y && sudo apt install nginx -y"
 }
 
+# 產生區域硬碟並連結虛擬機器
 resource "google_compute_region_disk" "example" {
   name   = "example-disk"
   type   = "pd-standard"
