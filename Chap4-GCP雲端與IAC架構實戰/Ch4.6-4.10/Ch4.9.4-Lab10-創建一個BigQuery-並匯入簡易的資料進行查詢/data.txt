@@ -1,0 +1,10 @@
+Alice,30,Female
+Bob,40,Male
+Charlie,25,Male
+Daisy,35,Female
+Ethan,28,Male
+Fiona,45,Female
+George,32,Male
+Helen,50,Female
+Isaac,37,Male
+Jane,42,Female
