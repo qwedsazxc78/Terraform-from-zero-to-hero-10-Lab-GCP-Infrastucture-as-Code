@@ -38,3 +38,4 @@ terraform.rc
 *plan.out
 *sa.json
 **/generated/**
+**/__pycache__/**
