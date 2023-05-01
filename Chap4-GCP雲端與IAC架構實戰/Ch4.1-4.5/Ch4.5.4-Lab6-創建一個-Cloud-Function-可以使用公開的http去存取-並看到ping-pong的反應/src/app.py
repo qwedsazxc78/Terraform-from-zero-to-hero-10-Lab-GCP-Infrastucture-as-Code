@@ -1,7 +1,10 @@
 from flask import Flask, request, make_response
 
+app = Flask(__name__)
 
-def handler(request):
+
+@app.route('/')
+def index():
     headers = {
         'Content-Type': 'text/plain'
     }
@@ -9,9 +12,10 @@ def handler(request):
     return response
 
 
-def ping(request):
+@app.route('/ping')
+def ping():
     headers = {
         'Content-Type': 'text/plain'
     }
-    response = make_response('Pong!', 200, headers)
+    response = make_response('pong', 200, headers)
     return response
