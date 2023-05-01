@@ -30,7 +30,7 @@
 - Ch4.7.1-GCP-運算服務-Kubernetes-GKE的用途
 - Ch4.7.2-GCP-運算服務-使用GCP-Console創建Kubernetes-GKE
 - Ch4.7.3-GCP-運算服務-使用Terraform創建Kubernetes-GKE
-- Ch4.7.4-Lab8-創建一個-Kubernetes-GKE-並使用kubenetes部署一個nginx在上面
+- Ch4.7.4-Lab8-創建一個-Kubernetes-GKE-並使用kubenetes部署一個應用在上面
 - Ch4.8.1-GCP-分析服務-消息隊列PubSub的用途
 - Ch4.8.2-GCP-分析服務-使用GCP-Console創建消息隊列PubSub
 - Ch4.8.3-GCP-分析服務-使用Terraform創建消息隊列PubSub
