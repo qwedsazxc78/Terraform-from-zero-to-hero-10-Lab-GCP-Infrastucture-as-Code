@@ -1,14 +1,30 @@
 ##################################################################################
 # RESOURCE
 ##################################################################################
+locals {
+  allow_ips = ["0.0.0.0/0", ]
+}
+
 resource "google_sql_database_instance" "instance" {
   name                = var.db_name
   database_version    = "POSTGRES_14"
   deletion_protection = false
 
   settings {
-    tier      = "db-n1-standard-2" # 使用標準的硬體配備
+    tier      = "db-f1-micro" # 使用標準的硬體配備
     disk_size = "10"
+
+    ip_configuration {
+      dynamic "authorized_networks" {
+        for_each = local.allow_ips
+        iterator = allow_ips
+
+        content {
+          name  = "allow-${allow_ips.key}"
+          value = allow_ips.value
+        }
+      }
+    }
   }
 }
 

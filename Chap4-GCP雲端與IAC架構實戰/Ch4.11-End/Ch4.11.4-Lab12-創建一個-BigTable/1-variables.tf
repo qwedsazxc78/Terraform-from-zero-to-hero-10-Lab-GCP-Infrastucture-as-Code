@@ -9,7 +9,17 @@ variable "GCP_REGION" {
   default = "asia-northeast1"
 }
 
-variable "db_name" {
+variable "GCP_ZONE" {
   type    = string
-  default = "db-tf-ch4-10-3"
+  default = "asia-northeast1-a"
+}
+
+variable "bigtable_name" {
+  type    = string
+  default = "bigtable-tf-ch4-11-3"
+}
+
+variable "table_name" {
+  type    = string
+  default = "table-tf-ch4-11-3"
 }
