@@ -6,11 +6,17 @@ resource "google_bigtable_instance" "this" {
 
   deletion_protection = false
 
+  # a cluster with auto scaling.
   cluster {
-    cluster_id   = var.bigtable_name
-    num_nodes    = 1
+    cluster_id   = "${var.bigtable_name}-auto"
     storage_type = "HDD"
     zone         = var.GCP_ZONE
+
+    autoscaling_config {
+      min_nodes  = 1
+      max_nodes  = 3
+      cpu_target = 50
+    }
   }
 }
 

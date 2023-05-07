@@ -14,12 +14,7 @@ variable "GCP_ZONE" {
   default = "asia-northeast1-a"
 }
 
-variable "bigtable_name" {
+variable "redis_name" {
   type    = string
-  default = "bigtable-tf-ch4-lab12"
-}
-
-variable "table_name" {
-  type    = string
-  default = "table-tf-ch4-lab12"
+  default = "redis-tf-ch4-lab13"
 }
