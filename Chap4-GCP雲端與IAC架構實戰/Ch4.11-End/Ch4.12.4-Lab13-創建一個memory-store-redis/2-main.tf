@@ -21,8 +21,6 @@ resource "google_redis_instance" "cache" {
       start_time {
         hours   = 0
         minutes = 30
-        seconds = 0
-        nanos   = 0
       }
     }
   }
