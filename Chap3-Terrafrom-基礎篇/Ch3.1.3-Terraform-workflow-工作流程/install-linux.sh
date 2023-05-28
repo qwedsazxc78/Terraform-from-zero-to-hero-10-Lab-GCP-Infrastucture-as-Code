@@ -4,8 +4,8 @@
 terraform init
 
 # 2. 格式化 Terraform 代碼。驗證 Terraform 代碼的語法與結構
-terraform init
 terraform fmt
+terraform validate
 
 # 3. 比較 Terraform 狀態和雲端中實際狀態，建立並顯示一個執行計畫
 terraform plan
