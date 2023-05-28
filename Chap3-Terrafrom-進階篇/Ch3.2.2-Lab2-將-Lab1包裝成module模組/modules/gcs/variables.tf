@@ -1,6 +1,6 @@
 variable "gcs_name" {
   type    = string
-  default = "quick-start-gcs-bucket-state"
+  default = "quick-start-gcs-bucket"
 }
 
 variable "location" {

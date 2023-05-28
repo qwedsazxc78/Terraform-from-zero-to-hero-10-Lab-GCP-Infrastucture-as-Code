@@ -6,7 +6,7 @@ variable "GCP_PROJECT" {
 
 variable "gcs_name" {
   type    = string
-  default = "quick-start-gcs-bucket-module"
+  default = "quick-start-gcs-bucket-module-lab2"
 }
 
 variable "location" {
