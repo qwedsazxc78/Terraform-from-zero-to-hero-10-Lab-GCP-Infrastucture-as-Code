@@ -1,7 +1,7 @@
-output "bucket_name" {
-  value = module.gcs-module-demo.bucket_name
+output "bucket1_name" {
+  value = module.gcs-module-demo1.bucket_name
 }
 
-output "bucket_location" {
-  value = module.gcs-module-demo.bucket_location
+output "bucket2_name" {
+  value = module.gcs-module-demo2.bucket_name
 }
