@@ -13,6 +13,6 @@ resource "google_storage_bucket" "quick_start_gcs_b" {
   force_destroy = true
 
   depends_on = [
-    resource.google_storage_bucket.quick_start_gcs_a
+    google_storage_bucket.quick_start_gcs_a
   ]
 }
