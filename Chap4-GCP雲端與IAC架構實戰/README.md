@@ -8,9 +8,9 @@
 - Ch4.1.6-連結Terraform與gcp的使用方法三-使用cloudshell
 - Ch4.1.7-建議開發Terraform使用的最佳方式
 - Ch4.2.1-GCP-存儲服務-GCS的用途
-- Ch4.2.3-GCP-存儲服務-使用GCP-Console創建GCS
-- Ch4.2.4-GCP-存儲服務-使用Terraform創建GCS
-- Ch4.2.5-Lab3:-創建保護資料與刪除生命週期的-GCS
+- Ch4.2.2-GCP-存儲服務-使用GCP-Console創建GCS
+- Ch4.2.3-GCP-存儲服務-使用Terraform創建GCS
+- Ch4.2.4-Lab3:-創建保護資料與刪除生命週期的-GCS
 - Ch4.3.1-GCP-網路服務-VPC-虛擬私人網路-Subnet-子網段-Firewall-防火牆的用途
 - Ch4.3.2-GCP-網路服務-使用GCP-Console創建VPC-虛擬私人網路-Subnet-子網段-Firewall-防火牆
 - Ch4.3.3-GCP-網路服務-使用Terraform創建VPC-虛擬私人網路-Subnet-子網段-Firewall-防火牆
