@@ -5,7 +5,7 @@
 - Ch4.1.3-設定服務帳號(service-account)
 - Ch4.1.4-連結Terraform與gcp的使用方法一-使用者帳號與密碼(user-password)
 - Ch4.1.5-連結Terraform與gcp的使用方法二-服務帳號(service-account)
-- Ch4.1.6-連結Terraform與gcp的使用方法三-使用cloudshell
+- Ch4.1.6-連結Terraform與gcp的使用方法三-使用cloud shell
 - Ch4.1.7-建議開發Terraform使用的最佳方式
 - Ch4.2.1-GCP-存儲服務-GCS的用途
 - Ch4.2.2-GCP-存儲服務-使用GCP-Console創建GCS
@@ -18,7 +18,7 @@
 - Ch4.4.1-GCP-運算資源服務-虛擬機器的用途
 - Ch4.4.2-GCP-運算資源服務-使用GCP-Console創建虛擬機器-(VM)
 - Ch4.4.3-GCP-運算資源服務-使用Terraform創建虛擬機器-(VM)
-- Ch4.4.4-Lab5:-創建虛擬機器-(VM)-使用地區硬碟Regitional-Disk與startup-script-產生-nginx服務器
+- Ch4.4.4-Lab5:-創建虛擬機器-(VM)-使用地區硬碟Regional-Disk與startup-script-產生-nginx服務器
 - Ch4.5.1-GCP-無伺服器服務-Cloud-Function的用途
 - Ch4.5.2-GCP-無伺服器服務-使用GCP-Console創建Cloud-Function
 - Ch4.5.3-GCP-無伺服器服務-使用Terraform創建Cloud-Function
@@ -30,7 +30,7 @@
 - Ch4.7.1-GCP-運算服務-Kubernetes-GKE的用途
 - Ch4.7.2-GCP-運算服務-使用GCP-Console創建Kubernetes-GKE
 - Ch4.7.3-GCP-運算服務-使用Terraform創建Kubernetes-GKE
-- Ch4.7.4-Lab8-創建一個-Kubernetes-GKE-並使用kubenetes部署一個應用在上面
+- Ch4.7.4-Lab8-創建一個-Kubernetes-GKE-並使用kubernetes部署一個應用在上面
 - Ch4.8.1-GCP-分析服務-消息隊列PubSub的用途
 - Ch4.8.2-GCP-分析服務-使用GCP-Console創建消息隊列PubSub
 - Ch4.8.3-GCP-分析服務-使用Terraform創建消息隊列PubSub
@@ -42,7 +42,7 @@
 - Ch4.10.1-GCP-資料庫服務-關聯式-SQL-DB的用途
 - Ch4.10.2-GCP-資料庫服務-使用GCP-Console創建關聯式-SQL-DB
 - Ch4.10.3-GCP-資料庫服務-使用Terraform創建關聯式-SQL-DB
-- Ch4.10.4-Lab11-創建一個關聯式postgre-SQL-DB-並使用自動備份的策略
+- Ch4.10.4-Lab11-創建一個關聯式postgres-SQL-DB-並使用自動備份的策略
 - Ch4.11.1-GCP-資料庫服務-非關聯式-No-SQL-DB-bigtable的用途
 - Ch4.11.2-GCP-資料庫服務-使用GCP-Console創建bigtable
 - Ch4.11.3-GCP-資料庫服務-使用Terraform創建bigtable
