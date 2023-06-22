@@ -32,7 +32,7 @@ resource "google_storage_bucket_object" "archive" {
 }
 
 # cloud function 程式碼
-resource "google_cloudfunctions_function" "hello_function" {
+resource "google_cloudfunctions_function" "pong_function" {
   name                = var.func_name
   description         = "Lab 6 - Cloud Function"
   runtime             = "python39"
@@ -60,9 +60,9 @@ resource "google_cloudfunctions_function" "hello_function" {
 
 # IAM 所有人都可以去access
 resource "google_cloudfunctions_function_iam_member" "invoker" {
-  project        = google_cloudfunctions_function.hello_function.project
-  region         = google_cloudfunctions_function.hello_function.region
-  cloud_function = google_cloudfunctions_function.hello_function.name
+  project        = google_cloudfunctions_function.pong_function.project
+  region         = google_cloudfunctions_function.pong_function.region
+  cloud_function = google_cloudfunctions_function.pong_function.name
 
   role   = "roles/cloudfunctions.invoker"
   member = "allUsers"

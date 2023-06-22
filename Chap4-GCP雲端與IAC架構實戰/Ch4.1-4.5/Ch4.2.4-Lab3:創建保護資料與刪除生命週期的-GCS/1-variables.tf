@@ -6,7 +6,7 @@ variable "GCP_PROJECT" {
 
 variable "gcs_name" {
   type    = string
-  default = "gcs-tf-ch4-2-5"
+  default = "gcs-tf-lab3"
 }
 
 variable "location" {

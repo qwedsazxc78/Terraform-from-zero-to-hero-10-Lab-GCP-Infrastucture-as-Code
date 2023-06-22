@@ -6,7 +6,7 @@ variable "GCP_PROJECT" {
 
 variable "GCP_REGION" {
   type    = string
-  default = "asia-northeast1"
+  default = "asia-east1"
 }
 
 variable "func_name" {
