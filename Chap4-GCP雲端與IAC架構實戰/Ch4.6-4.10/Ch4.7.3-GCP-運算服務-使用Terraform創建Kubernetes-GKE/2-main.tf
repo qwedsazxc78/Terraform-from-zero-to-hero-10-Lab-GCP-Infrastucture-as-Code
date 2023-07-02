@@ -28,7 +28,7 @@ module "gke" {
   http_load_balancing      = true
   gce_pd_csi_driver        = true
   filestore_csi_driver     = false
-  kubernetes_version       = "1.25.7-gke.1000"
+  kubernetes_version       = "1.26.5-gke.1200"
 
   node_pools = [
     {

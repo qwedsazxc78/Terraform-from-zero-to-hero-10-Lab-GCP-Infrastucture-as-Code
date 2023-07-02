@@ -15,7 +15,7 @@ resource "google_pubsub_subscription" "hello_subscription" {
 resource "google_pubsub_topic_iam_member" "hello_topic_iam" {
   topic  = google_pubsub_topic.hello_topic.name
   role   = "roles/pubsub.publisher"
-  member = "user:allUsers"
+  member = "allUsers"
 }
 
 

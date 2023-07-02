@@ -28,7 +28,6 @@ resource "google_pubsub_topic_iam_member" "hello_topic_iam" {
   member = "allUsers"
 }
 
-
 # 輸出主題和訂閱的網址
 output "topic_url" {
   value = google_pubsub_topic.hello_topic.id
@@ -37,7 +36,6 @@ output "topic_url" {
 output "subscription_a_url" {
   value = google_pubsub_subscription.hello_subscription_a.id
 }
-
 
 output "subscription_b_url" {
   value = google_pubsub_subscription.hello_subscription_b.id
