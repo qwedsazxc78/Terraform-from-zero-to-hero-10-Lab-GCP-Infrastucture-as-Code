@@ -1,14 +1,11 @@
-##################################################################################
-# RESOURCE
-##################################################################################
 resource "google_redis_instance" "cache" {
-  name           = var.redis_name
-  display_name   = "Terraform Test Instance - ${var.redis_name}"
+  name         = var.redis_name
+  display_name = "Terraform 101 - ${var.redis_name}"
+  region       = var.GCP_REGION
+
   tier           = "STANDARD_HA"
   memory_size_gb = 1
   redis_version  = "REDIS_6_X"
-
-  location_id = var.GCP_ZONE
 
   persistence_config {
     persistence_mode    = "RDB"
