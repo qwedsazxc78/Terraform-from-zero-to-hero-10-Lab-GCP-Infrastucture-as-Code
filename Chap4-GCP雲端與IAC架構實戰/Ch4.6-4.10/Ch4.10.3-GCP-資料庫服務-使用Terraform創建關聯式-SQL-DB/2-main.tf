@@ -11,7 +11,7 @@ resource "google_sql_database_instance" "instance" {
   deletion_protection = false
 
   settings {
-    tier      = "db-f1-micro" # 使用標準的硬體配備
+    tier      = "db-f1-micro" # 使用基本的硬體配備
     disk_size = "10"
 
     ip_configuration {
