@@ -2,6 +2,10 @@
 
 [Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code)
 
+## Udemy 課程連結
+
+[udemy課程：Terraform 從零開始 — 10+實戰Lab打造GCP雲端自動化架構課程](https://www.udemy.com/course/terraform-zero-starter-with-10-gcp-labs/learn/?referralCode=A5B6B75133EEFE4DEBAA)
+
 ## 課程大綱
 
 - [Chap1-課程介紹](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/tree/main/Chap1-%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9)
