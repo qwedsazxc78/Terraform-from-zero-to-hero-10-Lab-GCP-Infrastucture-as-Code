@@ -5,6 +5,7 @@
 ## Udemy 課程連結
 
 [udemy課程：Terraform 從零開始 — 10+實戰Lab打造GCP雲端自動化架構課程](https://www.udemy.com/course/terraform-zero-starter-with-10-gcp-labs/learn/?referralCode=A5B6B75133EEFE4DEBAA)
+[udemy關於我](https://www.udemy.com/user/ming-hong-xie/)
 
 ## 課程大綱
 
