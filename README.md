@@ -2,6 +2,11 @@
 
 [Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code)
 
+- Blog: [DevOps with Alex](https://devops-with-alex.com/)
+- Udemy: [Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://www.udemy.com/course/terraform-zero-starter-with-10-gcp-labs/?referralCode=A5B6B75133EEFE4DEBAA)
+
+[![Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/assets/13078460/15b4b543-d132-4dbf-ba92-c862d11daebc)](https://www.udemy.com/course/terraform-zero-starter-with-10-gcp-labs/?referralCode=A5B6B75133EEFE4DEBAA)
+
 ## 課程大綱
 
 - [Chap1-課程介紹](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/tree/main/Chap1-%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9)
