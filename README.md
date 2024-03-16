@@ -3,7 +3,7 @@
 [Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code)
 
 - Blog: [DevOps with Alex](https://devops-with-alex.com/)
-- Udemy: [Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://www.udemy.com/course/terraform-zero-starter-with-10-gcp-labs/?referralCode=A5B6B75133EEFE4DEBAA)
+- Udemy: [Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://devops-with-alex.com/go/terraform)
 
 [![Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/assets/13078460/15b4b543-d132-4dbf-ba92-c862d11daebc)](https://www.udemy.com/course/terraform-zero-starter-with-10-gcp-labs/?referralCode=A5B6B75133EEFE4DEBAA)
 
@@ -21,7 +21,7 @@
 
 ## Udemy 課程連結
 
-[udemy課程：Terraform 從零開始 — 10+實戰Lab打造GCP雲端自動化架構課程](https://www.udemy.com/course/terraform-zero-starter-with-10-gcp-labs/learn/?referralCode=A5B6B75133EEFE4DEBAA)
+[udemy課程：Terraform 從零開始 — 10+實戰Lab打造GCP雲端自動化架構課程](https://devops-with-alex.com/go/terraform)
 ![image](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/assets/13078460/60bb33c8-f632-4f49-89f8-910a785e7860)
 [udemy關於我](https://www.udemy.com/user/ming-hong-xie/)
 ![image](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/assets/13078460/cb9adab1-2418-4784-856d-b309c699d9d7)
