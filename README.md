@@ -21,9 +21,10 @@
 
 ## Udemy 課程連結
 
-[udemy課程：Terraform 從零開始 — 10+實戰Lab打造GCP雲端自動化架構課程](https://devops-with-alex.com/go/terraform)
-(![CleanShot 2024-03-25 at 20 23 21](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/assets/13078460/e048feac-a763-456c-8367-67fb928a5d92)
+[Udemy課程：Terraform 從零開始 — 10+實戰Lab打造GCP雲端自動化架構課程](https://devops-with-alex.com/go/terraform)
 
-[udemy關於我](https://www.udemy.com/user/ming-hong-xie/)
+![CleanShot 2024-03-25 at 20 23 21](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/assets/13078460/e048feac-a763-456c-8367-67fb928a5d92)
 
-(![CleanShot 2024-03-25 at 20 24 12](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/assets/13078460/6035eae7-dee0-4ee6-ac48-48a80e6c64e9)
+[Udemy關於我](https://www.udemy.com/user/ming-hong-xie/)
+
+![CleanShot 2024-03-25 at 20 24 12](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/assets/13078460/6035eae7-dee0-4ee6-ac48-48a80e6c64e9)
