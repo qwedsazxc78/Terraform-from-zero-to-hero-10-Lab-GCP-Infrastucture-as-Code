@@ -5,7 +5,7 @@
 - Blog: [DevOps with Alex](https://devops-with-alex.com/)
 - Udemy: [Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://devops-with-alex.com/go/terraform)
 
-[![Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/assets/13078460/15b4b543-d132-4dbf-ba92-c862d11daebc)](https://www.udemy.com/course/terraform-zero-starter-with-10-gcp-labs/?referralCode=A5B6B75133EEFE4DEBAA)
+[![Terraform 從零開始 10+實戰Lab打造GCP雲端自動化架構](https://github.com/qwedsazxc78/Terraform-from-zero-to-hero-10-Lab-GCP-Infrastucture-as-Code/assets/13078460/15b4b543-d132-4dbf-ba92-c862d11daebc)](https://devops-with-alex.com/go/terraform)
 
 ## 課程大綱
 
