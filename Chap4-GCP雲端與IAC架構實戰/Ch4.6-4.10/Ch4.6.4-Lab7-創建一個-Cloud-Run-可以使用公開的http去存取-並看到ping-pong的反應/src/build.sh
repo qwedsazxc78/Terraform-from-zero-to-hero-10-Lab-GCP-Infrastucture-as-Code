@@ -2,6 +2,9 @@
 # gcloud auth configure-docker \
 #     asia-docker.pkg.dev
 
+# create the container registry
+gcloud artifacts repositories create tf-cloud-run --repository-format=docker --location=asia
+
 # build and push docker image
 docker build -t asia-docker.pkg.dev/terraform101-384507/tf-cloud-run/cloud-run-tf-ch4-lab-7 .
 docker push asia-docker.pkg.dev/terraform101-384507/tf-cloud-run/cloud-run-tf-ch4-lab-7
