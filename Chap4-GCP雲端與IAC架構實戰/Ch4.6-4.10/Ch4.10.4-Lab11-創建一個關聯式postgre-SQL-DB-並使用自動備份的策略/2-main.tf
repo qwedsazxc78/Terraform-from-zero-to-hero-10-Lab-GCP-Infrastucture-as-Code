@@ -23,7 +23,6 @@ resource "google_sql_database_instance" "instance" {
     }
 
     ip_configuration {
-
       dynamic "authorized_networks" {
         for_each = local.allow_ips
         iterator = allow_ips
