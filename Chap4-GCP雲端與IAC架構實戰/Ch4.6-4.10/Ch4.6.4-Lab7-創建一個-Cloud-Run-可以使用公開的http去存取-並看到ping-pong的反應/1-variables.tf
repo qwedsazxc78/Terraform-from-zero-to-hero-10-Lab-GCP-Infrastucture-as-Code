@@ -16,5 +16,5 @@ variable "container_name" {
 
 variable "image_name" {
   type    = string
-  default = "gcr.io/terraform101-384507/cloud-run-tf-ch4-lab-7:latest"
+  default = "asia-docker.pkg.dev/terraform101-384507/tf-cloud-run/cloud-run-tf-ch4-lab-7:latest"
 }

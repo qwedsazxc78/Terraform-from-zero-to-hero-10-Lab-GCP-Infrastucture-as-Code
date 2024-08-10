@@ -1,4 +1,11 @@
-docker build -t gcr.io/terraform101-384507/cloud-run-tf-ch4-lab-7 .
-docker push gcr.io/terraform101-384507/cloud-run-tf-ch4-lab-7
+# add auth to docker configuration
+# gcloud auth configure-docker \
+#     asia-docker.pkg.dev
 
-# docker run -p 8080:8080 -e PORT=8080 gcr.io/terraform101-384507/cloud-run-tf-ch4-lab-7
+# build and push docker image
+docker build -t asia-docker.pkg.dev/terraform101-384507/tf-cloud-run/cloud-run-tf-ch4-lab-7 .
+docker push asia-docker.pkg.dev/terraform101-384507/tf-cloud-run/cloud-run-tf-ch4-lab-7
+
+# play with cloud run -
+# [note] in mac or windows, you need to remove --platform=linux/amd64
+# docker run -p 8080:8080 -e PORT=8080 asia-docker.pkg.dev/terraform101-384507/tf-cloud-run/cloud-run-tf-ch4-lab-7
