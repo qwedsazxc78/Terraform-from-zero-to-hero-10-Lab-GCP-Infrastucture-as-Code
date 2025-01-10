@@ -8,7 +8,7 @@ resource "google_compute_instance" "example" {
 
   boot_disk {
     initialize_params {
-      image = "debian-cloud/debian-10"
+      image = "debian-cloud/debian-12"
     }
   }
 
