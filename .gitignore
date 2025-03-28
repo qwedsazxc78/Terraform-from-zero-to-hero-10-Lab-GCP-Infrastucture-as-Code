@@ -39,3 +39,5 @@ terraform.rc
 *sa.json
 **/generated/**
 **/__pycache__/**
+.qodo
+.pytest_cache
